@@ -1,4 +1,4 @@
-boto3
-botocore
-typing
-aws_lambda_powertools
+aws_lambda_powertools==1.25.7
+boto3==1.18.58
+botocore==1.23.5
+requests==2.26.0
