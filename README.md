@@ -1,4 +1,4 @@
-# AWS Lambda Python Template
+# ECR Inspector Lambda
 
 This Lambda function that revices Inspector 2 events filters and processes them before sending on to several outlets.
 
